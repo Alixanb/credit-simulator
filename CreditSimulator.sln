@@ -1,0 +1,34 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.0.31903.59
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CreditLib", "CreditLib\CreditLib.csproj", "{4B6E9F9C-C730-40C3-8DA9-D0EDA29EEA8E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CreditApp", "CreditApp\CreditApp.csproj", "{08A1525A-7AEA-4B6B-BC49-E133D80E4CE3}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CreditTests", "CreditTests\CreditTests.csproj", "{009CC924-8519-4F67-9E24-1DA33B38B14F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{4B6E9F9C-C730-40C3-8DA9-D0EDA29EEA8E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4B6E9F9C-C730-40C3-8DA9-D0EDA29EEA8E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4B6E9F9C-C730-40C3-8DA9-D0EDA29EEA8E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4B6E9F9C-C730-40C3-8DA9-D0EDA29EEA8E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{08A1525A-7AEA-4B6B-BC49-E133D80E4CE3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{08A1525A-7AEA-4B6B-BC49-E133D80E4CE3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{08A1525A-7AEA-4B6B-BC49-E133D80E4CE3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{08A1525A-7AEA-4B6B-BC49-E133D80E4CE3}.Release|Any CPU.Build.0 = Release|Any CPU
+		{009CC924-8519-4F67-9E24-1DA33B38B14F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{009CC924-8519-4F67-9E24-1DA33B38B14F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{009CC924-8519-4F67-9E24-1DA33B38B14F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{009CC924-8519-4F67-9E24-1DA33B38B14F}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
