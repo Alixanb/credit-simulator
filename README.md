@@ -1,5 +1,3 @@
-Je vais créer un README.md complet pour le projet :
-
 # Simulateur de Crédit Immobilier
 
 ## Description
