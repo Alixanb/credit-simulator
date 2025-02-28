@@ -56,10 +56,20 @@ Les résultats sont automatiquement exportés dans un fichier CSV à la racine d
 
 ## Question 1 : Quel est le prix global de la mensualité ?
 
-## Question 2 : Quel est le montant de la cotisation mensuelle d’assurance ?
+1210,31 €
+
+## Question 2 : Quel est le montant de la cotisation mensuelle d'assurance ?
+
+510,42 €
 
 ## Question 3 : Quel est le montant total des intérêts remboursés ?
 
-## Question 4 : Quel est le montant total de l’assurance ?
+34966,57 €
+
+## Question 4 : Quel est le montant total de l'assurance ?
+
+153125,00 €
 
 ## Question 5 : Quel montant du capital a été remboursé au bout de 10 ans ?
+
+61691,62 € (calculé en soustrayant le capital restant au mois 120 (113308,38 €) du capital initial de 175000 €)
